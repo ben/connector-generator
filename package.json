@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "ts-node build.ts"
+    "build": "ts-node lib/build.ts"
   },
   "dependencies": {
     "ts-node": "^10.9.2",

@@ -3,6 +3,7 @@
     "build": "ts-node lib/build.ts"
   },
   "dependencies": {
+    "esbuild": "^0.25.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
